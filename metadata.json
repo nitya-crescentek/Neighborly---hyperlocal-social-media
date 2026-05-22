@@ -1,0 +1,6 @@
+{
+  "name": "Neighborly",
+  "description": "A hyper-local neighborhood social platform similar to Nextdoor, featuring address verification, localized discussion feeds, emergency alerts, custom map directory, marketplace grid, private groups, and secure messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
